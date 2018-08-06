@@ -7,7 +7,7 @@ es:
     single_month_with_days: "%{from_day} al %{to_day} de %{from_month} de %{from_year}"
     single_month_without_days: "%{from_month} de %{from_year}"
     single_day: "%{from_day} de %{from_month} de %{from_year}"
-    time_difference: "entre %{from_time} y %{to_time}"
+    time_difference: "de %{from_time} a %{to_time}"
     day_names:
     - domingo
     - lunes
